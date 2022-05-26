@@ -8,4 +8,4 @@ This document's purpose is to list all the pertinent Telegram Channels related t
 | Description | Name | Link |
 | ----------- | ------ | ------- |
 | Example Description | Example Name | https://t.me/TelegramTips |
-|  |   | https://t.me/ |
+|  Foreign Ministry information | generallsvr  | https://t.me/generallsvr |
